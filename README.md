@@ -6,4 +6,6 @@ A haphazard collection of sloppy yet succesful solutions for project euler, incl
 from over at:
 
 
+
+
 http://projecteuler.net/
