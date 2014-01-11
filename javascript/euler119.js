@@ -1,9 +1,6 @@
 //These solutions to project euler challenges by no means illustrate graceful or robust code, but are mostly hack-jobs intent on simply reaching the answer!!
 /* to be run in Node */
 
-var a = 10,
-	sum_of_digits = 0,
-	ith_root=0;
 
 var answers = [];
 
