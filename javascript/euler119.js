@@ -26,4 +26,4 @@ for (base = 2; base < 205891132094649; base ++) {
 	if (answers.length > 31) {break;}
 }
 
-console.log( "Our answer (A_30) would have to be: " + answers.sort(sortNumber)[28]);
+console.log( "Our answer (A_30) would have to be: " + answers.sort(sortNumber)[28]); 
